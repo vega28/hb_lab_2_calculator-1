@@ -47,3 +47,6 @@ def mod(num1, num2):
     """Return the remainder of num1 / num2."""
 
     return num1 % num2
+
+def testing():
+    print('test')
